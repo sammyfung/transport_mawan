@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>馬灣交通時間表 - sammy.hk</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+	button {
+            margin-bottom: 10px;
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGWD5GN5L9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGWD5GN5L9');
+</script>
+
+<body>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0247336506883797"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0247336506883797"
+     data-ad-slot="4871700028"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<h2><span id="headerDay">平日</span><span id="headerDirection">出</span>馬灣交通時間表 - <a href="https://sammy.hk">sammy.hk</a></h2>
+<button id="toggleButton">顯示全日</button>
+<button id="dayToggleButton">轉到週末時間表</button>
+<button id="maWanToggleButton">過濾: 馬灣出發</button>
+<button id="gotoAnotherLangButton">English</button>
+<table id="busTable">
+    <thead>
+        <tr>
+            <th>開車時間</th>
+            <th>號碼</th>
+            <th>出發點</th>
+            <th>目的地</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script>
+    let jsonData = [];
+    let showFiltered = true;
+    let isWeekday = true; // Default to weekday
+    let fromMaWan = 1;  
+
+    function formatTime(date) {
+        return date.toTimeString().slice(0, 5);
+    }
+
+    function loadBusSchedule() {
+        const tableBody = document.getElementById("busTable").querySelector("tbody");
+        tableBody.innerHTML = ""; // Clear existing rows
+        const currentTime = new Date();
+        currentTime.setMinutes(currentTime.getMinutes() - 5); // Subtract 5 minutes
+        const currentTimeStr = formatTime(currentTime);
+
+        jsonData.forEach(schedule => {
+	    let adjustedTime = schedule.time;
+            if (schedule.time > "23:59") {
+                // Convert to minutes
+                const parts = schedule.time.split(':');
+                const hours = parseInt(parts[0]) - 24; // Subtract 24 hours
+                const minutes = parseInt(parts[1]);
+                adjustedTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`;
+            }
+            if ((!showFiltered || schedule.time >= currentTimeStr) &&
+schedule.from_ma_wan == fromMaWan) {
+//            if (!showFiltered || schedule.time >= currentTimeStr) {
+                const row = document.createElement("tr");
+                const short_bus_number = schedule.bus_number.replace(/^NR/, '');
+                row.innerHTML = `
+                    <td>${adjustedTime}</td>
+                    <td>${short_bus_number}</td>
+                    <td>${schedule.departure_hk}</td>
+                    <td>${schedule.destination_hk}</td>
+                `;
+                tableBody.appendChild(row);
+            }
+        });
+    }
+
+    async function fetchBusData() {
+        const url = isWeekday ? 'data/ma_wan_bus_weekday.json' : 'data/ma_wan_bus_weekend.json';
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error('Network response was not ok');
+            jsonData = await response.json();
+            loadBusSchedule(); // Load the data after fetching
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
+    }
+
+    document.getElementById("toggleButton").addEventListener("click", () => {
+        showFiltered = !showFiltered;
+        document.getElementById("toggleButton").innerText = showFiltered ? "顯示全日" : "顯示未來";
+        loadBusSchedule();
+    });
+
+    document.getElementById("dayToggleButton").addEventListener("click", () => {
+        isWeekday = !isWeekday;
+        document.getElementById("dayToggleButton").innerText = isWeekday ? "轉到週末時間表" : "轉到平日時間表";
+	document.getElementById("headerDay").innerText = isWeekday ? "平日" : "週末";
+        fetchBusData(); // Fetch data for the selected schedule
+    });
+
+    document.getElementById("maWanToggleButton").addEventListener("click", () => {
+        fromMaWan = fromMaWan === 1 ? 0 : 1; // Toggle between 1 and 0
+        document.getElementById("maWanToggleButton").innerText = fromMaWan === 1 ? "過濾: 馬灣出發" : "過濾: 入馬灣";
+	document.getElementById("headerDirection").innerText = fromMaWan === 1 ? "出" : "入";
+        loadBusSchedule(); // Reload the schedule with the new filter
+    });
+
+    document.getElementById("gotoAnotherLangButton").addEventListener("click", () => {
+        window.location.href = 'en/'; 
+    });
+
+    fetchBusData(); // Initial fetch of the JSON data
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0247336506883797"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0247336506883797"
+     data-ad-slot="4871700028"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
+</html>

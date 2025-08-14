@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Wan / Park Island Transportation Schedule</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+	button {
+            margin-bottom: 10px;
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGWD5GN5L9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGWD5GN5L9');
+</script>
+
+<body>
+
+	<h2><span id="headerDay">Weekday</span> <span id="headerDirection">From</span> Ma Wan / Park Island Transportation Schedule - <a href="https://sammy.hk/en/">sammy.hk</a></h2>
+<button id="toggleButton">Show All Today</button>
+<button id="dayToggleButton">Switch to Weekend Schedule</button>
+<button id="maWanToggleButton">Filter: From Ma Wan</button>
+<button id="gotoAnotherLangButton">中文</button>
+<table id="busTable">
+    <thead>
+        <tr>
+            <th>Departure Time</th>
+            <th>Number</th>
+            <th>Departure From</th>
+            <th>Destination</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script>
+    let jsonData = [];
+    let showFiltered = true;
+    let isWeekday = true; // Default to weekday
+    let fromMaWan = 1;  
+
+    function formatTime(date) {
+        return date.toTimeString().slice(0, 5);
+    }
+
+    function loadBusSchedule() {
+        const tableBody = document.getElementById("busTable").querySelector("tbody");
+        tableBody.innerHTML = ""; // Clear existing rows
+        const currentTime = new Date();
+        currentTime.setMinutes(currentTime.getMinutes() - 5); // Subtract 5 minutes
+        const currentTimeStr = formatTime(currentTime);
+
+        jsonData.forEach(schedule => {
+            let adjustedTime = schedule.time;
+            if (schedule.time > "23:59") {
+                // Convert to minutes
+                const parts = schedule.time.split(':');
+                const hours = parseInt(parts[0]) - 24; // Subtract 24 hours
+                const minutes = parseInt(parts[1]);
+                adjustedTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`;
+            }
+            if ((!showFiltered || schedule.time >= currentTimeStr) &&
+schedule.from_ma_wan == fromMaWan) {
+//            if (!showFiltered || schedule.time >= currentTimeStr) {
+                const row = document.createElement("tr");
+                const short_bus_number = schedule.bus_number.replace(/^NR/, '');
+                row.innerHTML = `
+                    <td>${adjustedTime}</td>
+                    <td>${short_bus_number}</td>
+                    <td>${schedule.departure_en}</td>
+                    <td>${schedule.destination_en}</td>
+                `;
+                tableBody.appendChild(row);
+            }
+        });
+    }
+
+    async function fetchBusData() {
+        const url = isWeekday ? '../data/ma_wan_bus_weekday.json' : '../data/ma_wan_bus_weekend.json';
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error('Network response was not ok');
+            jsonData = await response.json();
+            loadBusSchedule(); // Load the data after fetching
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
+    }
+
+    document.getElementById("toggleButton").addEventListener("click", () => {
+        showFiltered = !showFiltered;
+        document.getElementById("toggleButton").innerText = showFiltered ? "Show All Rows" : "Show Filtered Rows";
+        loadBusSchedule();
+    });
+
+    document.getElementById("dayToggleButton").addEventListener("click", () => {
+        isWeekday = !isWeekday;
+        document.getElementById("dayToggleButton").innerText = isWeekday ? "Switch to Weekend Schedule" : "Switch to Weekday Schedule";
+	document.getElementById("headerDay").innerText = isWeekday ? "Weekday" : "Weekend";
+        fetchBusData(); // Fetch data for the selected schedule
+    });
+
+    document.getElementById("maWanToggleButton").addEventListener("click", () => {
+        fromMaWan = fromMaWan === 1 ? 0 : 1; // Toggle between 1 and 0
+        document.getElementById("maWanToggleButton").innerText = fromMaWan === 1 ? "Filter: From Ma Wan" : "Filter: To Man Wan";
+	document.getElementById("headerDirection").innerText = fromMaWan === 1 ? "From" : "To";
+        loadBusSchedule(); // Reload the schedule with the new filter
+    });
+
+    document.getElementById("gotoAnotherLangButton").addEventListener("click", () => {
+        window.location.href = '..';
+    });
+
+    fetchBusData(); // Initial fetch of the JSON data
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0247336506883797"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0247336506883797"
+     data-ad-slot="9504048053"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
+</html>
