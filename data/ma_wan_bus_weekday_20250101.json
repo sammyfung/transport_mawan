@@ -99,6 +99,15 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "00:22",
+        "bus_number": "NR331",
+        "departure_en": "Tsuen Wan",
+        "departure_hk": "\u8343\u7063",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
         "time": "00:30",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
@@ -505,11 +514,29 @@
     },
     {
         "time": "06:30",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "06:30",
         "bus_number": "NR331",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "06:35",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -555,6 +582,15 @@
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "06:45",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -610,6 +646,15 @@
         "destination_en": "Ma Wan",
         "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
+    },
+    {
+        "time": "06:55",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
     },
     {
         "time": "06:55",
@@ -676,11 +721,29 @@
     },
     {
         "time": "07:00",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "07:00",
         "bus_number": "NR331",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:05",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -730,6 +793,15 @@
     },
     {
         "time": "07:15",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:15",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
@@ -775,6 +847,15 @@
     },
     {
         "time": "07:20",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:20",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -789,6 +870,15 @@
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:25",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -855,12 +945,12 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "07:35",
+        "time": "07:34",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -873,12 +963,21 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "07:40",
+        "time": "07:38",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:38",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
     },
     {
@@ -892,12 +991,21 @@
     },
     {
         "time": "07:40",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "07:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "07:40",
@@ -918,21 +1026,12 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "07:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "07:45",
+        "time": "07:42",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -954,6 +1053,24 @@
         "from_ma_wan": "1"
     },
     {
+        "time": "07:46",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:46",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "07:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
@@ -973,20 +1090,29 @@
     },
     {
         "time": "07:50",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "07:54",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "07:54",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "07:55",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
         "from_ma_wan": "1"
     },
     {
@@ -999,7 +1125,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "08:00",
+        "time": "07:58",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1015,15 +1141,6 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "08:00",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
-        "from_ma_wan": "1"
     },
     {
         "time": "08:00",
@@ -1071,12 +1188,21 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "08:05",
+        "time": "08:02",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "08:02",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
     },
     {
@@ -1087,6 +1213,15 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
+    },
+    {
+        "time": "08:06",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
     },
     {
         "time": "08:10",
@@ -1117,6 +1252,15 @@
     },
     {
         "time": "08:10",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "08:10",
         "bus_number": "NR331S",
         "departure_en": "Tsuen Wan West",
         "departure_hk": "\u8343\u7063\u897f",
@@ -1125,12 +1269,12 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "08:15",
+        "time": "08:14",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -1152,12 +1296,21 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "08:20",
+        "time": "08:18",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "08:18",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
     },
     {
@@ -1171,11 +1324,11 @@
     },
     {
         "time": "08:20",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "from_ma_wan": "1"
     },
     {
@@ -1197,12 +1350,12 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "08:25",
+        "time": "08:22",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -1213,6 +1366,24 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
+    },
+    {
+        "time": "08:26",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "08:26",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
     },
     {
         "time": "08:30",
@@ -1231,15 +1402,6 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "08:30",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
-        "from_ma_wan": "1"
     },
     {
         "time": "08:30",
@@ -1269,12 +1431,21 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "08:34",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "08:35",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -1306,12 +1477,21 @@
     },
     {
         "time": "08:40",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "08:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "08:40",
@@ -1332,21 +1512,21 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "08:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
+        "time": "08:42",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
     },
     {
         "time": "08:45",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -1395,12 +1575,21 @@
         "from_ma_wan": "1"
     },
     {
+        "time": "08:50",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
         "time": "08:55",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi (Sat only)",
-        "destination_hk": "\u9752\u8863 (\u53ea\u9650\u661f\u671f\u516d)",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -1485,22 +1674,13 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "09:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
+        "time": "09:05",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "09:00",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "09:05",
@@ -1512,7 +1692,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "09:06",
+        "time": "09:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1540,6 +1720,15 @@
     },
     {
         "time": "09:10",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "09:10",
         "bus_number": "NR331S",
         "departure_en": "Tsuen Wan West",
         "departure_hk": "\u8343\u7063\u897f",
@@ -1548,7 +1737,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "09:12",
+        "time": "09:15",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1575,7 +1764,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "09:18",
+        "time": "09:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1603,6 +1792,15 @@
     },
     {
         "time": "09:20",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "09:20",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -1620,7 +1818,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "09:24",
+        "time": "09:25",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1684,15 +1882,6 @@
     },
     {
         "time": "09:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "09:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
@@ -1701,13 +1890,13 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "09:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
+        "time": "09:35",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
     },
     {
         "time": "09:35",
@@ -1719,7 +1908,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "09:36",
+        "time": "09:40",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1734,6 +1923,33 @@
         "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "09:40",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "09:40",
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "09:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -1755,30 +1971,12 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "09:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "09:42",
+        "time": "09:45",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "09:45",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
     },
     {
@@ -1800,7 +1998,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "09:48",
+        "time": "09:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1818,7 +2016,25 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "09:54",
+        "time": "09:50",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "09:50",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "09:55",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1917,7 +2133,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "10:06",
+        "time": "10:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -1926,7 +2142,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "10:06",
+        "time": "10:10",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -1936,29 +2152,20 @@
     },
     {
         "time": "10:10",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "10:10",
         "bus_number": "NR331S",
         "departure_en": "Tsuen Wan West",
         "departure_hk": "\u8343\u7063\u897f",
         "destination_en": "Ma Wan",
         "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "10:12",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:12",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -1998,7 +2205,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "10:18",
+        "time": "10:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -2007,7 +2214,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "10:18",
+        "time": "10:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -2032,24 +2239,6 @@
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "10:24",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "10:24",
@@ -2112,15 +2301,6 @@
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "10:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2134,24 +2314,6 @@
     },
     {
         "time": "10:36",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:36",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "10:36",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -2166,6 +2328,33 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "10:40",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "10:40",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "10:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2187,60 +2376,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "10:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "10:42",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:42",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "10:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:48",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "10:48",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "10:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -2259,7 +2394,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "10:54",
+        "time": "10:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -2268,7 +2403,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "10:54",
+        "time": "10:50",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -2359,15 +2494,6 @@
     },
     {
         "time": "11:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -2385,24 +2511,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "11:05",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:05",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "11:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
@@ -2418,15 +2526,6 @@
         "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2443,24 +2542,6 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:15",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:15",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -2511,15 +2592,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "11:20",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "11:24",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -2533,24 +2605,6 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:25",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:25",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -2593,38 +2647,11 @@
     },
     {
         "time": "11:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:35",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:35",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2661,6 +2688,15 @@
         "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "11:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2682,51 +2718,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "11:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:40",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:45",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:45",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "11:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -2755,78 +2746,6 @@
     },
     {
         "time": "11:50",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:50",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:50",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:50",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:55",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:55",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:55",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:55",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:55",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -2934,24 +2853,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "12:05",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:05",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "12:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
@@ -2967,15 +2868,6 @@
         "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -2992,24 +2884,6 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:15",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:15",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -3073,24 +2947,6 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:25",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:25",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -3141,42 +2997,6 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "12:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:35",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:35",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "12:36",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -3214,6 +3034,15 @@
     },
     {
         "time": "12:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "12:40",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -3228,42 +3057,6 @@
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:45",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "12:45",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "12:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
         "from_ma_wan": "1"
     },
     {
@@ -3294,13 +3087,13 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "12:55",
+        "time": "12:50",
         "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "13:00",
@@ -3385,15 +3178,6 @@
     },
     {
         "time": "13:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -3411,43 +3195,16 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:06",
+        "time": "13:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "13:06",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "13:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:12",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:12",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -3492,7 +3249,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:18",
+        "time": "13:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -3501,7 +3258,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:18",
+        "time": "13:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -3526,24 +3283,6 @@
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "13:24",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "13:24",
@@ -3601,15 +3340,6 @@
     },
     {
         "time": "13:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
@@ -3618,48 +3348,12 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "13:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "13:35",
         "bus_number": "Ferry TW",
         "departure_en": "Tsuen Wan Pier",
         "departure_hk": "\u8343\u7063\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:36",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:36",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -3678,6 +3372,33 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "13:40",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "13:40",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "13:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -3699,60 +3420,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:42",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:42",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:48",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:48",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "13:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -3771,7 +3438,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "13:54",
+        "time": "13:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -3780,7 +3447,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:54",
+        "time": "13:50",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -3888,43 +3555,16 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "14:06",
+        "time": "14:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "14:06",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "14:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "14:12",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:12",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -3960,7 +3600,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "14:18",
+        "time": "14:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -3969,7 +3609,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "14:18",
+        "time": "14:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -3994,24 +3634,6 @@
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "14:24",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "14:24",
@@ -4077,42 +3699,6 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "14:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "14:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:36",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:36",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "14:36",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -4128,6 +3714,33 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "14:40",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "14:40",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "14:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -4149,60 +3762,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "14:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "14:42",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:42",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "14:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:48",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "14:48",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "14:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -4221,7 +3780,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "14:54",
+        "time": "14:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -4230,7 +3789,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "14:54",
+        "time": "14:50",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4321,15 +3880,6 @@
     },
     {
         "time": "15:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -4347,43 +3897,16 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "15:06",
+        "time": "15:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "15:06",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "15:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:12",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:12",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4419,7 +3942,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "15:18",
+        "time": "15:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -4428,7 +3951,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "15:18",
+        "time": "15:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4453,24 +3976,6 @@
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "15:24",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "15:24",
@@ -4528,56 +4033,11 @@
     },
     {
         "time": "15:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:36",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:36",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -4596,6 +4056,33 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "15:40",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "15:40",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "15:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -4617,60 +4104,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "15:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:42",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:42",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:48",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:48",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "15:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
@@ -4689,7 +4122,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "15:54",
+        "time": "15:50",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -4698,7 +4131,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "15:54",
+        "time": "15:50",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4806,43 +4239,16 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "16:06",
+        "time": "16:10",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "16:06",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "16:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "16:12",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "16:12",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4887,7 +4293,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "16:18",
+        "time": "16:20",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -4896,7 +4302,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "16:18",
+        "time": "16:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -4921,33 +4327,6 @@
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "16:20",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "16:24",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "16:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "16:24",
@@ -5010,15 +4389,6 @@
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "16:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -5068,6 +4438,15 @@
     },
     {
         "time": "16:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "16:40",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -5082,24 +4461,6 @@
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "16:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "16:40",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -5266,12 +4627,12 @@
     },
     {
         "time": "17:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
+        "bus_number": "230R",
+        "departure_en": "Kowloon Station",
+        "departure_hk": "\u4e5d\u9f8d\u7ad9",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "17:00",
@@ -5283,7 +4644,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:05",
+        "time": "17:06",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5292,25 +4653,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:05",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:10",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "17:10",
+        "time": "17:06",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5346,7 +4689,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "17:15",
+        "time": "17:12",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5355,7 +4698,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:15",
+        "time": "17:12",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5373,7 +4716,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:20",
+        "time": "17:18",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5382,7 +4725,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:20",
+        "time": "17:18",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5427,7 +4770,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:25",
+        "time": "17:24",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5436,7 +4779,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:25",
+        "time": "17:24",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5500,12 +4843,12 @@
     },
     {
         "time": "17:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
     },
     {
         "time": "17:30",
@@ -5517,25 +4860,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "17:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "17:35",
+        "time": "17:36",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5544,25 +4869,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:35",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:40",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "17:40",
+        "time": "17:36",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5586,6 +4893,15 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "17:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -5607,16 +4923,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:45",
+        "time": "17:42",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5625,7 +4932,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:45",
+        "time": "17:42",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -5643,13 +4950,22 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "17:50",
+        "time": "17:48",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "17:48",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "17:50",
@@ -5670,13 +4986,31 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "17:55",
+        "time": "17:54",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "17:54",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "17:58",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "18:00",
@@ -5704,15 +5038,6 @@
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
-    },
-    {
-        "time": "18:00",
-        "bus_number": "NR332",
-        "departure_en": "Kwai Fong",
-        "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
     },
     {
         "time": "18:00",
@@ -5743,6 +5068,15 @@
     },
     {
         "time": "18:00",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "18:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -5762,19 +5096,19 @@
     {
         "time": "18:00",
         "bus_number": "230R",
+        "departure_en": "Kowloon Station",
+        "departure_hk": "\u4e5d\u9f8d\u7ad9",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "18:00",
+        "bus_number": "230R",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Kowloon Station",
         "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "18:05",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -5787,13 +5121,22 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "18:10",
+        "time": "18:06",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "18:06",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "18:10",
@@ -5815,15 +5158,6 @@
     },
     {
         "time": "18:10",
-        "bus_number": "NR332",
-        "departure_en": "Kwai Fong",
-        "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "18:10",
         "bus_number": "NR331S",
         "departure_en": "Tsuen Wan West",
         "departure_hk": "\u8343\u7063\u897f",
@@ -5832,13 +5166,22 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "18:15",
+        "time": "18:12",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Tsing Yi",
         "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "18:14",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "18:15",
@@ -5859,7 +5202,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "18:20",
+        "time": "18:18",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5887,15 +5230,6 @@
     },
     {
         "time": "18:20",
-        "bus_number": "NR332",
-        "departure_en": "Kwai Fong",
-        "departure_hk": "\u8475\u82b3",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "18:20",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -5913,7 +5247,16 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "18:25",
+        "time": "18:22",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "18:24",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -5987,38 +5330,20 @@
     {
         "time": "18:30",
         "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "18:30",
+        "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "18:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "18:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "18:35",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
     },
     {
         "time": "18:35",
@@ -6030,6 +5355,15 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "18:36",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "18:38",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
@@ -6037,15 +5371,6 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "18:40",
-        "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
     },
     {
         "time": "18:40",
@@ -6067,6 +5392,15 @@
     },
     {
         "time": "18:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "18:40",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -6084,16 +5418,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "18:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "18:45",
+        "time": "18:42",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -6129,7 +5454,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "18:50",
+        "time": "18:48",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -6139,11 +5464,29 @@
     },
     {
         "time": "18:50",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "18:50",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "18:54",
+        "bus_number": "NR330",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Tsing Yi",
+        "destination_hk": "\u9752\u8863",
         "from_ma_wan": "1"
     },
     {
@@ -6158,11 +5501,11 @@
     {
         "time": "18:55",
         "bus_number": "NR330",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Tsing Yi",
-        "destination_hk": "\u9752\u8863",
-        "from_ma_wan": "1"
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "19:00",
@@ -6220,6 +5563,15 @@
     },
     {
         "time": "19:00",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "19:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -6238,11 +5590,20 @@
     },
     {
         "time": "19:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
+        "bus_number": "230R",
+        "departure_en": "Kowloon Station",
+        "departure_hk": "\u4e5d\u9f8d\u7ad9",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "19:00",
+        "bus_number": "230R",
+        "departure_en": "Ma Wan",
+        "departure_hk": "\u99ac\u7063",
+        "destination_en": "Kowloon Station",
+        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -6250,6 +5611,15 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "19:05",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -6264,7 +5634,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "19:06",
+        "time": "19:10",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -6301,21 +5671,21 @@
     },
     {
         "time": "19:12",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:12",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "19:15",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "19:15",
@@ -6337,18 +5707,18 @@
     },
     {
         "time": "19:18",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
-        "time": "19:18",
-        "bus_number": "NR332",
-        "departure_en": "Kwai Fong",
-        "departure_hk": "\u8475\u82b3",
+        "time": "19:20",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -6382,21 +5752,21 @@
     },
     {
         "time": "19:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:24",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "19:25",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "19:26",
@@ -6445,12 +5815,12 @@
     },
     {
         "time": "19:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
+        "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
     },
     {
         "time": "19:30",
@@ -6462,28 +5832,19 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "19:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "19:34",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "19:35",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -6499,6 +5860,15 @@
     },
     {
         "time": "19:36",
+        "bus_number": "NR332",
+        "departure_en": "Park Islands",
+        "departure_hk": "\u73c0\u9e97\u7063",
+        "destination_en": "Kwai Fong",
+        "destination_hk": "\u8475\u82b3",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "19:40",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -6507,13 +5877,13 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "19:36",
-        "bus_number": "NR332",
-        "departure_en": "Park Islands",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Kwai Fong",
-        "destination_hk": "\u8475\u82b3",
-        "from_ma_wan": "1"
+        "time": "19:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "19:40",
@@ -6534,15 +5904,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "19:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "19:42",
         "bus_number": "NR330",
         "departure_en": "Park Islands",
@@ -6553,18 +5914,18 @@
     },
     {
         "time": "19:42",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
+        "bus_number": "NR332",
+        "departure_en": "Kwai Fong",
+        "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
     {
-        "time": "19:42",
-        "bus_number": "NR332",
-        "departure_en": "Kwai Fong",
-        "departure_hk": "\u8475\u82b3",
+        "time": "19:45",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -6589,21 +5950,21 @@
     },
     {
         "time": "19:48",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:48",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "19:50",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "19:50",
@@ -6624,7 +5985,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "19:54",
+        "time": "19:55",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -6697,6 +6058,15 @@
     },
     {
         "time": "20:00",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "20:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -6714,7 +6084,25 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "20:06",
+        "time": "20:00",
+        "bus_number": "230R",
+        "departure_en": "Kowloon Station",
+        "departure_hk": "\u4e5d\u9f8d\u7ad9",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "20:00",
+        "bus_number": "230R",
+        "departure_en": "Ma Wan",
+        "departure_hk": "\u99ac\u7063",
+        "destination_en": "Kowloon Station",
+        "destination_hk": "\u4e5d\u9f8d\u7ad9",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "20:05",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -6727,6 +6115,15 @@
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
         "departure_hk": "\u8475\u82b3",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "20:10",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
@@ -6751,15 +6148,6 @@
     },
     {
         "time": "20:12",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "20:12",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
@@ -6778,6 +6166,15 @@
     },
     {
         "time": "20:15",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "20:15",
         "bus_number": "NR331S",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
@@ -6786,7 +6183,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "20:18",
+        "time": "20:20",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
         "departure_hk": "\u9752\u8863",
@@ -6832,21 +6229,21 @@
     },
     {
         "time": "20:24",
-        "bus_number": "NR330",
-        "departure_en": "Tsing Yi",
-        "departure_hk": "\u9752\u8863",
-        "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "20:24",
         "bus_number": "NR332",
         "departure_en": "Park Islands",
         "departure_hk": "\u73c0\u9e97\u7063",
         "destination_en": "Kwai Fong",
         "destination_hk": "\u8475\u82b3",
         "from_ma_wan": "1"
+    },
+    {
+        "time": "20:25",
+        "bus_number": "NR330",
+        "departure_en": "Tsing Yi",
+        "departure_hk": "\u9752\u8863",
+        "destination_en": "Park Islands",
+        "destination_hk": "\u73c0\u9e97\u7063",
+        "from_ma_wan": "0"
     },
     {
         "time": "20:30",
@@ -6887,29 +6284,20 @@
     {
         "time": "20:30",
         "bus_number": "Ferry C",
+        "departure_en": "Park Islands Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
+        "time": "20:30",
+        "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
         "destination_en": "Park Islands Pier",
         "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "20:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "20:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
-        "from_ma_wan": "1"
     },
     {
         "time": "20:36",
@@ -6949,6 +6337,15 @@
     },
     {
         "time": "20:40",
+        "bus_number": "NR331S",
+        "departure_en": "Tsuen Wan West",
+        "departure_hk": "\u8343\u7063\u897f",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "20:40",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -6966,15 +6363,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "20:40",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "20:42",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
@@ -6982,15 +6370,6 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "20:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
     },
     {
         "time": "20:46",
@@ -7102,6 +6481,15 @@
     },
     {
         "time": "21:00",
+        "bus_number": "Ferry C",
+        "departure_en": "Central Pier",
+        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "destination_en": "Park Islands Pier",
+        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "21:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -7120,11 +6508,20 @@
     },
     {
         "time": "21:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
+        "bus_number": "230R",
+        "departure_en": "Kowloon Station",
+        "departure_hk": "\u4e5d\u9f8d\u7ad9",
+        "destination_en": "Ma Wan",
+        "destination_hk": "\u99ac\u7063",
+        "from_ma_wan": "0"
+    },
+    {
+        "time": "21:00",
+        "bus_number": "230R",
+        "departure_en": "Ma Wan",
+        "departure_hk": "\u99ac\u7063",
+        "destination_en": "Kowloon Station",
+        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -7152,15 +6549,6 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "21:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -7291,15 +6679,6 @@
     },
     {
         "time": "21:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "21:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
@@ -7314,24 +6693,6 @@
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "21:30",
-        "bus_number": "230R",
-        "departure_en": "Kowloon Station",
-        "departure_hk": "\u4e5d\u9f8d\u7ad9",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "21:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -7396,15 +6757,6 @@
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "21:45",
-        "bus_number": "NR331S",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Tsuen Wan West",
-        "destination_hk": "\u8343\u7063\u897f",
-        "from_ma_wan": "1"
     },
     {
         "time": "21:48",
@@ -7534,11 +6886,11 @@
     },
     {
         "time": "22:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
+        "bus_number": "230R",
+        "departure_en": "Ma Wan",
+        "departure_hk": "\u99ac\u7063",
+        "destination_en": "Kowloon Station",
+        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -7557,15 +6909,6 @@
         "departure_hk": "\u8475\u82b3",
         "destination_en": "Park Islands",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "22:10",
-        "bus_number": "NR331S",
-        "departure_en": "Tsuen Wan West",
-        "departure_hk": "\u8343\u7063\u897f",
-        "destination_en": "Ma Wan",
-        "destination_hk": "\u99ac\u7063",
         "from_ma_wan": "0"
     },
     {
@@ -7705,15 +7048,6 @@
     },
     {
         "time": "22:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "22:30",
         "bus_number": "Ferry C",
         "departure_en": "Central Pier",
         "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
@@ -7728,15 +7062,6 @@
         "departure_hk": "\u99ac\u7063",
         "destination_en": "Tsuen Wan",
         "destination_hk": "\u8343\u7063",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "22:30",
-        "bus_number": "230R",
-        "departure_en": "Ma Wan",
-        "departure_hk": "\u99ac\u7063",
-        "destination_en": "Kowloon Station",
-        "destination_hk": "\u4e5d\u9f8d\u7ad9",
         "from_ma_wan": "1"
     },
     {
@@ -7920,15 +7245,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "23:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "23:02",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
@@ -8069,15 +7385,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "23:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },

@@ -1486,15 +1486,6 @@
     },
     {
         "time": "09:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "09:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -1679,15 +1670,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "09:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -2359,15 +2341,6 @@
     },
     {
         "time": "11:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "11:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -2588,15 +2561,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -3385,15 +3349,6 @@
     },
     {
         "time": "13:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -3596,15 +3551,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -4321,15 +4267,6 @@
     },
     {
         "time": "15:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:00",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -4523,15 +4460,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -5266,15 +5194,6 @@
     },
     {
         "time": "17:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "17:00",
         "bus_number": "230R",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
@@ -5495,15 +5414,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -6237,15 +6147,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "19:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "19:02",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
@@ -6440,15 +6341,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -7119,15 +7011,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "21:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "21:02",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
@@ -7286,15 +7169,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "21:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -7533,15 +7407,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "22:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "22:06",
         "bus_number": "NR330",
         "departure_en": "Tsing Yi",
@@ -7700,15 +7565,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "22:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
@@ -7920,15 +7776,6 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "23:00",
-        "bus_number": "NR338S",
-        "departure_en": "Park Island",
-        "departure_hk": "\u73c0\u9e97\u7063",
-        "destination_en": "Central",
-        "destination_hk": "\u4e2d\u74b0",
-        "from_ma_wan": "1"
-    },
-    {
         "time": "23:02",
         "bus_number": "NR332",
         "departure_en": "Kwai Fong",
@@ -8069,15 +7916,6 @@
         "departure_en": "Airport*",
         "departure_hk": "\u6a5f\u5834*",
         "destination_en": "Park Islands",
-        "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "23:30",
-        "bus_number": "NR338S",
-        "departure_en": "Central",
-        "departure_hk": "\u4e2d\u74b0",
-        "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
     },
