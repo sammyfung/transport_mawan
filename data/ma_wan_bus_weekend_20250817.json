@@ -1459,15 +1459,6 @@
     },
     {
         "time": "09:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "09:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -1689,15 +1680,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "09:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -1944,6 +1926,15 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "10:10",
+        "bus_number": "Ferry TW",
+        "departure_en": "Park Island Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Tsuen Wan Pier",
+        "destination_hk": "\u8343\u7063\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "10:12",
         "bus_number": "NR330",
         "departure_en": "Park Island",
@@ -1978,15 +1969,6 @@
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "10:15",
-        "bus_number": "Ferry TW",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Tsuen Wan Pier",
-        "destination_hk": "\u8343\u7063\u78bc\u982d",
-        "from_ma_wan": "1"
     },
     {
         "time": "10:15",
@@ -2124,7 +2106,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "10:35",
+        "time": "10:30",
         "bus_number": "Ferry TW",
         "departure_en": "Tsuen Wan Pier",
         "departure_hk": "\u8343\u7063\u78bc\u982d",
@@ -2329,15 +2311,6 @@
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "11:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
     },
     {
         "time": "11:00",
@@ -2598,15 +2571,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "11:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -3358,15 +3322,6 @@
     },
     {
         "time": "13:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "13:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -3438,6 +3393,15 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "13:10",
+        "bus_number": "Ferry TW",
+        "departure_en": "Park Island Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Tsuen Wan Pier",
+        "destination_hk": "\u8343\u7063\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "13:12",
         "bus_number": "NR330",
         "departure_en": "Park Island",
@@ -3472,15 +3436,6 @@
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "13:15",
-        "bus_number": "Ferry TW",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Tsuen Wan Pier",
-        "destination_hk": "\u8343\u7063\u78bc\u982d",
-        "from_ma_wan": "1"
     },
     {
         "time": "13:15",
@@ -3610,15 +3565,6 @@
     },
     {
         "time": "13:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "13:30",
         "bus_number": "230R",
         "departure_en": "Kowloon Station",
         "departure_hk": "\u4e5d\u9f8d\u7ad9",
@@ -3636,7 +3582,7 @@
         "from_ma_wan": "1"
     },
     {
-        "time": "13:35",
+        "time": "13:30",
         "bus_number": "Ferry TW",
         "departure_en": "Tsuen Wan Pier",
         "departure_hk": "\u8343\u7063\u78bc\u982d",
@@ -4294,15 +4240,6 @@
     },
     {
         "time": "15:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "15:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -4533,15 +4470,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "15:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -4833,6 +4761,15 @@
         "from_ma_wan": "0"
     },
     {
+        "time": "16:10",
+        "bus_number": "Ferry TW",
+        "departure_en": "Park Island Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Tsuen Wan Pier",
+        "destination_hk": "\u8343\u7063\u78bc\u982d",
+        "from_ma_wan": "1"
+    },
+    {
         "time": "16:12",
         "bus_number": "NR330",
         "departure_en": "Park Island",
@@ -4867,15 +4804,6 @@
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "16:15",
-        "bus_number": "Ferry TW",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Tsuen Wan Pier",
-        "destination_hk": "\u8343\u7063\u78bc\u982d",
-        "from_ma_wan": "1"
     },
     {
         "time": "16:15",
@@ -5022,7 +4950,7 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "16:35",
+        "time": "16:30",
         "bus_number": "Ferry TW",
         "departure_en": "Tsuen Wan Pier",
         "departure_hk": "\u8343\u7063\u78bc\u982d",
@@ -5236,15 +5164,6 @@
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
         "from_ma_wan": "0"
-    },
-    {
-        "time": "17:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
     },
     {
         "time": "17:00",
@@ -5505,15 +5424,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "17:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -6211,15 +6121,6 @@
     },
     {
         "time": "19:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "19:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -6450,15 +6351,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "19:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -7093,15 +6985,6 @@
     },
     {
         "time": "21:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "21:00",
         "bus_number": "NR331",
         "departure_en": "Tsuen Wan",
         "departure_hk": "\u8343\u7063",
@@ -7296,15 +7179,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "21:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
@@ -7516,15 +7390,6 @@
     },
     {
         "time": "22:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "22:00",
         "bus_number": "NR331",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
@@ -7714,15 +7579,6 @@
     },
     {
         "time": "22:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "22:30",
         "bus_number": "NR331",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
@@ -7903,15 +7759,6 @@
     },
     {
         "time": "23:00",
-        "bus_number": "Ferry C",
-        "departure_en": "Park Island Pier",
-        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "destination_en": "Central Pier",
-        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "from_ma_wan": "1"
-    },
-    {
-        "time": "23:00",
         "bus_number": "NR331",
         "departure_en": "Ma Wan",
         "departure_hk": "\u99ac\u7063",
@@ -8079,15 +7926,6 @@
         "departure_hk": "\u4e2d\u74b0",
         "destination_en": "Park Island",
         "destination_hk": "\u73c0\u9e97\u7063",
-        "from_ma_wan": "0"
-    },
-    {
-        "time": "23:30",
-        "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
         "from_ma_wan": "0"
     },
     {
