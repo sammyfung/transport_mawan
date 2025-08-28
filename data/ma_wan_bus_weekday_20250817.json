@@ -3357,15 +3357,6 @@
         "from_ma_wan": "0"
     },
     {
-        "time": "13:35",
-        "bus_number": "Ferry TW",
-        "departure_en": "Tsuen Wan Pier",
-        "departure_hk": "\u8343\u7063\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
-    },
-    {
         "time": "13:36",
         "bus_number": "NR332",
         "departure_en": "Park Island",
