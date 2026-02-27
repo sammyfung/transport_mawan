@@ -37,16 +37,7 @@
         crossorigin="anonymous"></script>
 </head>
 <body>
-<h2><span id="headerDay">平日</span><span id="headerDirection">出</span>馬灣交通時間表 - <a href="https://sammy.hk">森路歷程</a></h2>
-<div style="display: flex; align-items: center; gap: 0.5rem; margin: 1rem 0;">
-  <a href="https://github.com/sammyfung/transport_mawan" target="_blank" rel="noopener noreferrer"
-     style="display: flex; align-items: center; color: #111827; text-decoration: none;">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="GitHub">
-      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 0C5.37 0 0 5.37 0 12C0 17.31 3.435 21.795 8.205 23.385C8.805 23.49 9.03 23.13 9.03 22.815C9.03 22.53 9.015 21.585 9.015 20.58C6 21.135 5.22 19.605 4.98 18.78C4.845 18.375 4.26 17.13 3.75 16.785C3.33 16.515 2.73 15.81 3.735 15.795C4.68 15.78 5.355 16.665 5.58 17.085C6.66 19.065 8.445 18.525 9.075 18.225C9.18 17.385 9.51 16.83 9.87 16.515C7.215 16.185 4.44 15.165 4.44 10.755C4.44 9.525 4.845 8.505 5.52 7.725C5.4 7.41 5.04 6.255 5.64 4.695C5.64 4.695 6.495 4.365 9.015 5.805C10.005 5.535 11.085 5.4 12.165 5.4C13.245 5.4 14.325 5.535 15.315 5.805C17.835 4.365 18.69 4.695 18.69 4.695C19.29 6.255 18.93 7.41 18.81 7.725C19.485 8.505 19.89 9.525 19.89 10.755C19.89 15.165 17.115 16.185 14.46 16.515C14.94 16.92 15.36 17.73 15.36 18.975C15.36 20.73 15.345 22.155 15.345 22.815C15.345 23.13 15.57 23.49 16.17 23.385C20.925 21.795 24 17.31 24 12C24 5.37 18.63 0 12 0Z" fill="currentColor"/>
-    </svg>
-  </a>
-  <div> Sammy Fung 開放源碼</div>
-</div>
+<h2>馬灣交通時間表 - <span id="headerDay">平日</span><span id="headerDirection">出</span>馬灣</h2>
 <div>
 <button id="toggleButton">顯示全日</button>
 <button id="dayToggleButton">轉到週末時間表</button>
@@ -57,18 +48,15 @@
     <thead>
         <tr>
             <th>開車時間</th>
-            <th>號碼</th>
-            <th>出發點</th>
-            <th>目的地</th>
+            <th><span id="tableHeaderDirection">目的地</span></th>
         </tr>
     </thead>
     <tbody>
     </tbody>
 </table>
 <div style="display: flex; align-items: center; gap: 1.2rem; margin: 1rem 0;">
-  <div class="std_text">贊助 Sammy Fung</div>
   <!-- GitHub (from earlier) -->
-  <a href="https://github.com/sponsors/sammyfung" target="_blank" rel="noopener noreferrer"
+  <a href="https://github.com/sammyfung/transport_mawan" target="_blank" rel="noopener noreferrer"
      style="display: flex; align-items: center; color: #111827; text-decoration: none;">
     <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="GitHub">
       <path fill-rule="evenodd" clip-rule="evenodd" d="M12 0C5.37 0 0 5.37 0 12C0 17.31 3.435 21.795 8.205 23.385C8.805 23.49 9.03 23.13 9.03 22.815C9.03 22.53 9.015 21.585 9.015 20.58C6 21.135 5.22 19.605 4.98 18.78C4.845 18.375 4.26 17.13 3.75 16.785C3.33 16.515 2.73 15.81 3.735 15.795C4.68 15.78 5.355 16.665 5.58 17.085C6.66 19.065 8.445 18.525 9.075 18.225C9.18 17.385 9.51 16.83 9.87 16.515C7.215 16.185 4.44 15.165 4.44 10.755C4.44 9.525 4.845 8.505 5.52 7.725C5.4 7.41 5.04 6.255 5.64 4.695C5.64 4.695 6.495 4.365 9.015 5.805C10.005 5.535 11.085 5.4 12.165 5.4C13.245 5.4 14.325 5.535 15.315 5.805C17.835 4.365 18.69 4.695 18.69 4.695C19.29 6.255 18.93 7.41 18.81 7.725C19.485 8.505 19.89 9.525 19.89 10.755C19.89 15.165 17.115 16.185 14.46 16.515C14.94 16.92 15.36 17.73 15.36 18.975C15.36 20.73 15.345 22.155 15.345 22.815C15.345 23.13 15.57 23.49 16.17 23.385C20.925 21.795 24 17.31 24 12C24 5.37 18.63 0 12 0Z" fill="currentColor"/>
@@ -124,12 +112,17 @@ schedule.from_ma_wan == fromMaWan) {
 //            if (!showFiltered || schedule.time >= currentTimeStr) {
                 const row = document.createElement("tr");
                 const short_bus_number = schedule.bus_number.replace(/^NR/, '');
-                row.innerHTML = `
-                    <td>${adjustedTime}</td>
-                    <td>${short_bus_number}</td>
-                    <td>${schedule.departure_hk}</td>
-                    <td>${schedule.destination_hk}</td>
-                `;
+                if (fromMaWan) {
+                    row.innerHTML = `
+                        <td>${adjustedTime}</td>
+                        <td>${short_bus_number} ${schedule.destination_hk}</td>
+                    `;
+                } else {
+                    row.innerHTML = `
+                        <td>${adjustedTime}</td>
+                        <td>${short_bus_number} ${schedule.departure_hk}</td>
+                    `;
+                }
                 tableBody.appendChild(row);
             }
         });
@@ -156,14 +149,15 @@ schedule.from_ma_wan == fromMaWan) {
     document.getElementById("dayToggleButton").addEventListener("click", () => {
         isWeekday = !isWeekday;
         document.getElementById("dayToggleButton").innerText = isWeekday ? "轉到週末時間表" : "轉到平日時間表";
-	document.getElementById("headerDay").innerText = isWeekday ? "平日" : "週末";
+	    document.getElementById("headerDay").innerText = isWeekday ? "平日" : "週末";
         fetchBusData(); // Fetch data for the selected schedule
     });
 
     document.getElementById("maWanToggleButton").addEventListener("click", () => {
         fromMaWan = fromMaWan === 1 ? 0 : 1; // Toggle between 1 and 0
         document.getElementById("maWanToggleButton").innerText = fromMaWan === 1 ? "過濾: 馬灣出發" : "過濾: 入馬灣";
-	document.getElementById("headerDirection").innerText = fromMaWan === 1 ? "出" : "入";
+	    document.getElementById("headerDirection").innerText = fromMaWan === 1 ? "出" : "入";
+	    document.getElementById("tableHeaderDirection").innerText = fromMaWan === 1 ? "目的地" : "出發點";
         loadBusSchedule(); // Reload the schedule with the new filter
     });
 
