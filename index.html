@@ -48,6 +48,7 @@
     <thead>
         <tr>
             <th>開車時間</th>
+            <th>號碼</th>
             <th><span id="tableHeaderDirection">目的地</span></th>
         </tr>
     </thead>
@@ -115,12 +116,14 @@ schedule.from_ma_wan == fromMaWan) {
                 if (fromMaWan) {
                     row.innerHTML = `
                         <td>${adjustedTime}</td>
-                        <td>${short_bus_number} ${schedule.destination_hk}</td>
+                        <td>${short_bus_number}</td>
+                        <td>${schedule.destination_hk}</td>
                     `;
                 } else {
                     row.innerHTML = `
                         <td>${adjustedTime}</td>
-                        <td>${short_bus_number} ${schedule.departure_hk}</td>
+                        <td>${short_bus_number}</td>
+                        <td>${schedule.departure_hk}</td>
                     `;
                 }
                 tableBody.appendChild(row);
