@@ -6572,11 +6572,11 @@
     {
         "time": "21:00",
         "bus_number": "Ferry C",
-        "departure_en": "Central Pier",
-        "departure_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
-        "destination_en": "Park Island Pier",
-        "destination_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
-        "from_ma_wan": "0"
+        "departure_en": "Park Island Pier",
+        "departure_hk": "\u73c0\u9e97\u7063\u78bc\u982d",
+        "destination_en": "Central Pier",
+        "destination_hk": "\u4e2d\u74b02\u865f\u78bc\u982d",
+        "from_ma_wan": "1"
     },
     {
         "time": "21:00",
